@@ -1,2 +1,8 @@
 # Go_test
 Go语言个人学习项目
+
+day01 安装winGO环境
+
+# date：2023-03-19
+
+###### 学习定义变量，常量，ioat，##video10：常量和iota
