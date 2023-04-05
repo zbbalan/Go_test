@@ -35,4 +35,7 @@ func main() {
 	fmt.Println(licar)
 	// 包含 licar这个变量里是否包含汽车这个词
 	fmt.Println(strings.Contains(licar, "汽车")) // 返回值为true
+	s3 := []rune(car)                          //把字符串转换为一个rune切片 [汽 车]
+	s3[0] = '卡'                                // 将第0个字符替换为卡
+	fmt.Println(string(s3))                    // 在把rune切片转换为字符串
 }
