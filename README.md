@@ -21,4 +21,4 @@ day01 安装winGO环境
 
 # date： 2023-05-03
 
-###### video：day30 slice 切片 map，make指针及new初始化。append增加。func函数。
+###### video：day30 slice 切片 map，make指针及new初始化。append增加。func函数。+两个练习题
