@@ -18,3 +18,7 @@ day01 安装winGO环境
 # date：2023-04-16
 
 ###### video：day21 数组 ：switch判断，数组，goto跳转
+
+# date： 2023-05-03
+
+###### video：day30 slice 切片 map，make指针及new初始化。append增加。func函数。
